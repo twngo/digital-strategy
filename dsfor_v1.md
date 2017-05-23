@@ -61,10 +61,11 @@ draft version
   - [Tactical Technology Collective: holistic security guideline](https://holistic-security.tacticaltech.org/)
   - [Organisational Security](https://orgsec.community/display/OS/Organisational+Security)
   - [SAFETAG](https://safetag.org):The Security Auditing Framework and Evaluation Template for Advocacy Groups ([中文簡介](http://to.twngo.xyz/2q4J0i5))
+  
 - 資安戰法應用：各式安全強化工具
-　 - Tactical Technology Collective:Security in a box　簡中版
-　 - EFF Surveillance Self-Defense
-　 - Security First: Umbrella App 中文化已完成98%,請一起協助讓中文版早日進入google play 市集　
+　- Tactical Technology Collective: [Security in a box　簡中版](https://securityinabox.org/zh/)
+　- [EFF Surveillance Self-Defense](https://ssd.eff.org/en)
+　- [Security First: Umbrella App](https://secfirst.org/) 中文化已完成98%,請一起協助讓中文版早日進入google play 市集　
 
 3. 原則三：盡責的資料使用政策
 NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的組織文化。
@@ -125,9 +126,9 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 
 3. Yes or No 
 - ＮＯ 我們決定此階段還是不需要什麼數位挖糕
-　　- 請光速離開本站，把寶貴時間留給其它更重要急迫的事吧
+　- 請光速離開本站，把寶貴時間留給其它更重要急迫的事吧
 - ＹＥＳ　
-　　- 勇氣可嘉，請繼續往下走吧
+　- 勇氣可嘉，請繼續往下走吧
 　　
 4. 取得內部共識，尤其是關鍵決策者的支持
 - 除了個人個別認同數位工具的不可避免外，戰略策略還得進一步提昇成為組織文化與日常實踐的一部份
@@ -144,10 +145,10 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 - 有了解NGO運作情況與數位科技工具的合適人選可作諮詢請益
 - 是否考慮以服務企業為主的管理諮詢機構
 - 學術界的研究是否能合於社會團體真正的需求？
-- 
+
 7. 正式進入數位策略規劃步驟
 - 能夠堅持看到這裏，表示你已經差不多準備好要投入數位策略規劃了。
--  不多廢話，開始吧
+- 不多廢話，開始吧
 
 ### card 4 : 步驟一 zoom out 遠觀的美感
 展開（數位）策略規劃的第一步，先儘量讓組織與成員放開過往的束縛與日常的公式裏跳脫，試著從一種抽離、遠觀而全面的角度來思考。
@@ -269,6 +270,7 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 在這個階段，就是把“靜態”的「規劃」內容化為各種行動的實踐過程。也只有透過實地走過幾遍的演練，才能理解規劃是否有其必要價值。
 
 1. 推動的節奏步伐駕馭
+
 隨著數位策略下各項計畫的開展，能順利進行當然是最好。但也不能只看到組織本身的目標而忽略了所處環境的流動趨勢。計畫能夠搭著時代之風而一起升空當然是最好的,往往可以事半功倍。但如果風向氣候不對勁，橫衝直撞作烈士恐怕也沒人同情。
 - 觀察掌握當下的趨勢動態 trend /momentus
 - 是否依外部變動而作節奏調整：散步、休息、快跑、衝
