@@ -61,7 +61,6 @@ draft version
   - [Tactical Technology Collective: holistic security guideline](https://holistic-security.tacticaltech.org/)
   - [Organisational Security](https://orgsec.community/display/OS/Organisational+Security)
   - [SAFETAG](https://safetag.org):The Security Auditing Framework and Evaluation Template for Advocacy Groups ([中文簡介](http://to.twngo.xyz/2q4J0i5))
-  
 - 資安戰法應用：各式安全強化工具
 　- Tactical Technology Collective: [Security in a box　簡中版](https://securityinabox.org/zh/)
 　- [EFF Surveillance Self-Defense](https://ssd.eff.org/en)
@@ -126,9 +125,9 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 
 3. Yes or No 
 - ＮＯ 我們決定此階段還是不需要什麼數位挖糕
-　- 請光速離開本站，把寶貴時間留給其它更重要急迫的事吧
+ - 請光速離開本站，把寶貴時間留給其它更重要急迫的事吧
 - ＹＥＳ　
-　- 勇氣可嘉，請繼續往下走吧
+ - 勇氣可嘉，請繼續往下走吧
 　　
 4. 取得內部共識，尤其是關鍵決策者的支持
 - 除了個人個別認同數位工具的不可避免外，戰略策略還得進一步提昇成為組織文化與日常實踐的一部份
