@@ -10,7 +10,7 @@ draft version
 2. 誰該閱讀「數位發展策略指南」
 - NPO/ NPO　工作者
 - 充滿社會改革理想的年輕人
-- 想利用網路推動社會公共利益的個人 
+- 想利用網路推動社會公共利益的鄉民
 
 3. 各卡片主題簡述
 - 1. 關於「NGO數位策略」指南
@@ -27,7 +27,7 @@ draft version
 - 規劃 plan：在戰略指引下應用不同戰術作法組合搭配運動節奏式的各式方案
 - 戰術/戰法 tactics：具體的活動，如請願、記者會...等也可能包括靜態、不易被人發現察覺的作為。
 - 目標 goals：中長程一年以上（兩年到三年的）希望能達到的狀態。
-- 標靶中心 objectives：除了中長程目標外，把目標再細緻拉近的標靶中心。一個目標底下可能有多個標靶中心。
+- 標靶中心 objectives：除了中長程目標外，把目標再細緻拉近的標靶中心。一個目標底下可能有多個標座與靶中心。
 
 5. 如何使用本指南
 - 利用兩側< >操作卡片滑動，由左而右之安排次序，共八張卡片。或用滑鼠直接移到欲讀取的卡片上。
@@ -39,7 +39,7 @@ draft version
 - hypothes.is 為一開源自由的線上筆記與註釋工具，其目的在於促進互聯網上知識對話、累積和交流。
 - 申請註冊使用帳戶後，即可利用hypothesis作為閱讀時的搭配線上筆記
 - 本站另已開設用戶[專屬群組:twngo-digital-stragegy](https://hypothes.is/groups/9YK8yyQ5/twngo-digital-stragegy)，歡迎自由加入交流使用心得或分享貴單位的數位發展策略。
-- hypothesis 使用說明介紹（中文版）
+- hypothesis [使用說明介紹](https://blog.jxtsai.info/2017/05/12/hypothesis/)（中文版）
 
 7. 版權宣告
 - 本站設計乃（盗）用北愛爾蘭國家人權委員會（ＮＩＨＲＣ）制作的「[The Universal Periodic Review：A Guide for National Human Rights Institutions](http://training.nihrc.org/upr)」，請在享用本站之餘，不忘學學他山之石。尤其是未有國家級人權機構，不是聯合國會員的台灣，如何推動把人權真的當一回事。　
@@ -58,13 +58,13 @@ draft version
 在組織裏，該如何全方位進行安全考量與設計，了解數位網路工具的潛在隱憂與風險，而能驅吉避兇？唯有提高安危意識，貫徹良好實踐，並將之整合入數位略策之中,才能讓兩面刃的數位資訊工具發揮正向的助力。
 - 戰略面地了解資訊安全的內涵
   - 評估組織的威脅模型
-  - [Tactical Technology Collective: holistic security guideline](https://holistic-security.tacticaltech.org/)
-  - [Organisational Security](https://orgsec.community/display/OS/Organisational+Security)
-  - [SAFETAG](https://safetag.org):The Security Auditing Framework and Evaluation Template for Advocacy Groups ([中文簡介](http://to.twngo.xyz/2q4J0i5))
+  - Tactical Technology Collective:[Holistic security guideline](https://holistic-security.tacticaltech.org/)
+  - The Engine Room:[Organisational Security](https://orgsec.community/display/OS/Organisational+Security)
+  - InterNews: [SAFETAG](https://safetag.org):The Security Auditing Framework and Evaluation Template for Advocacy Groups ([中文簡介](http://to.twngo.xyz/2q4J0i5))
 - 資安戰法應用：各式安全強化工具
 　- Tactical Technology Collective: [Security in a box　簡中版](https://securityinabox.org/zh/)
-　- [EFF Surveillance Self-Defense](https://ssd.eff.org/en)
-　- [Security First: Umbrella App](https://secfirst.org/) 中文化已完成98%,請一起協助讓中文版早日進入google play 市集　
+　- Eletronic Frontier Foundation:[Surveillance Self-Defense](https://ssd.eff.org/en)
+　- Security First: [Umbrella App](https://secfirst.org/) 中文化已完成98%,請一起協助讓中文版早日進入google play 市集　
 
 3. 原則三：盡責的資料使用政策
 NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的組織文化。
@@ -82,7 +82,7 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 - 因此關切數位權利、相關公共政策，必要時挺身捍衛相關權利的保障也是每個組織與公民的責任。
 - 數位科技工具可能是協助組織追求使命達成目標的加速利器，但切記不要把工具手段當成目的。 
 
-5. 數位策略的內容一（外部用）
+5. 數位策略的內容一（對外使用）
 具體應用的數位工具，會隨著科技變化的普及而汰舊換新，即便採用單一工具，最好能先考量是否合於上述四大原則。建議NGO在思考其數位策略應有的內容時，不要被太多日新月異襲來的酷絃工具迷惑，而是從組織的日常運作與重要專案推動為思考架構來整理列出工具需求的優先次序。
 - 組織官網
   - 網站架設系統與軟體(行動閱讀、線上捐款)
@@ -98,7 +98,7 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
   - 社交網站經營
   - 廣告購買
 
-6. 數位策略內容二（內部）
+6. 數位策略內容二（對內使用）
 - 線上協作平台
 - message app、VOIP、Video Conference
 - 工作郵件 Email
@@ -118,16 +118,17 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 數位策略是一套通盤計畫，闡述行動者，在哪些情況下，什麼地點、（利用數位科技工具），如何地回應工作的要求與外部變動，維繫強化支持者的認同與加入，期能在一定的時間內達成社會運動的目標。
 
 1. 深呼吸，保持愉悅心情和清晰腦筋
+ － Enjoy it and have fun!
 2. 我們真的需要數位策略嗎？
  - 請列出6個不使用數位工具的原因
  - 請列出6個使用數位工具的理由
  - 請比較上列二者，到底是使用好還是不用好？
 
 3. Yes or No 
-- ＮＯ 我們決定此階段還是不需要什麼數位挖糕
+- No 我們決定此階段還是不需要什麼數位挖糕
  - 請光速離開本站，把寶貴時間留給其它更重要急迫的事吧
-- ＹＥＳ　
- - 勇氣可嘉，請繼續往下走吧
+- Yes 　
+ - 勇氣可嘉，請繼續一起來擬出NGO組織的數位策略吧
 　　
 4. 取得內部共識，尤其是關鍵決策者的支持
 - 除了個人個別認同數位工具的不可避免外，戰略策略還得進一步提昇成為組織文化與日常實踐的一部份
@@ -141,7 +142,7 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 - 找尋心儀的學習典範　Role Model （不必一定是NGO/NPO）
 
 6. 是否需要諮詢外部專家
-- 有了解NGO運作情況與數位科技工具的合適人選可作諮詢請益
+- 有了解NGO運作情況與數位科技工具的合適人選可作諮詢請益？
 - 是否考慮以服務企業為主的管理諮詢機構
 - 學術界的研究是否能合於社會團體真正的需求？
 
@@ -150,7 +151,7 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 - 不多廢話，開始吧
 
 ### card 4 : 步驟一 zoom out 遠觀的美感
-展開（數位）策略規劃的第一步，先儘量讓組織與成員放開過往的束縛與日常的公式裏跳脫，試著從一種抽離、遠觀而全面的角度來思考。
+展開（數位）策略規劃的第一步，先儘量讓組織與成員放開過往的束縛與從日常的公式裏跳脫，試著從一種抽離、遠觀而全面的角度來思考。
 
 1. 大膽地重新想像五十年一百年後你的組織會變成怎樣？
 - 它還會繼續存在嗎 ？ 如果是的話，目前組織核心工作者想像它那時候是什麼模樣呢 ？ 
@@ -199,10 +200,10 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 - 參考問卷模版(1) [How the organisation uses technology](https://learn.equalit.ie/wiki/Resource_Kit/Questionnaire) by equalit.ie
 - 參考問卷模版(2) [Basic Organizational Security Survey](https://www.theengineroom.org/basic-organizational-security-survey/) by The Engine Room
 
-3.  依中長程目標所發展的各階段靶心 objectives
-- 遠大目標的階段性到達地點 goals - objective 
-- SMART原則： 具體明確、可達，**時間表時程、可評量**、合理期待
-- 數位科技的角色與功能 means or end ?
+3. 依中長程目標所發展的各階段靶心 objectives
+- 遠大目標（goals）的階段性到達地點（objectives)
+- SMART原則： 具體明確(Specific)、可評量(Measureable)、可達(Achievable)、合理期待(Reasonable)、時間表時程(Timeframe)
+- 數位科技的角色與功能,是手段還是目的（means or end） ?
 
 4. 發展時間表計畫（下一個步驟的重點）
 -  擬出粗步合理的階段進程
@@ -233,30 +234,30 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 2. [NGOs如何挑選合適數位科技？](https://medium.twngo.xyz/technology-tools-for-ngos-part-i-b42243247c0f)
 - The Engine Room : [alidade project](alidade.tech) 協助非政府組織數位科技工具挑選的線上自我把脈平台。
 　　
-3. 學習培力的成本投入
-- 人力到位準備
+3. 學習成本與人員培力
+- 資源是否如時到位
 - 在職訓練安排
 
 4. 工作計畫的參考模版
-- 時間表與資源配置安排
-- activities 活動安排
-- task 任務指派
+- 路徑圖、時間表與資源配置
+- 活動（activities ）安排
+- 任務（task）指派
 - 軟體建議： trello / asana
 
-5. 有些計畫可能在全面推動前，先進行小規模試行
+5. 全面推動前，先進行小規模試行
 - A/B 測試實驗組與對照組，是否符合預期
 - 方案修正
 
 6. 替代備案與最糟情況預防
-- 需要替代備案嗎
 - 有什麼機制可以提前預感風暴來襲
+- 需要替代備案嗎
  
 7. 資訊戰法資源庫
-- Tactical Technology Collective [NGO in a box ](https://ngoinabox.org/)
+- [NGO in a box ](https://ngoinabox.org/) by Tactical Technology Collective
 - [New Tactics](https://www.newtactics.org/tactics) 
-- [tasharuk](https://www.tasharuk.net/en/home/)
+- [Tasharuk](https://www.tasharuk.net/en/home/)
 
-8. 各式生産力軟體集合包
+8. 各式生産力軟體滙整
 - [Doing more with digital](http://www.communityhowto.com/)
 - [capterra](http://www.capterra.com/):The Smart Way to Find Business Software
 - [G2crowd](https://www.g2crowd.com/): Get the right software & services for your business
@@ -304,7 +305,10 @@ NGO/NPO 對資料數據的態度立場與處理能力，發展出盡責使用的
 - 新變化、技術出現的應變
 - 敵手對手朋友的移動變化　
 
-3. 啟動下一輪新階段的數位策略規劃
+3. 更新相關記錄系統
+- 滙整相關記錄與檢討，以利新加入者快速入門
+
+4. 啟動下一輪新階段的數位策略規劃
 
 ### footer
 附件
