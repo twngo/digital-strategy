@@ -55,16 +55,18 @@ draft version
 - 戰略先於戰法戰術，先畫出合於屋主需求的建築藍圖再談施工計畫
 
 2. 原則二：全盤資訊安全考量
+
 在組織裏，該如何全方位進行安全考量與設計，了解數位網路工具的潛在隱憂與風險，而能驅吉避兇？唯有提高安危意識，貫徹良好實踐，並將之整合入數位略策之中,才能讓兩面刃的數位資訊工具發揮正向的助力。
 - 戰略面地了解資訊安全的內涵
   - 評估組織的威脅模型
   - Tactical Technology Collective:[Holistic security guideline](https://holistic-security.tacticaltech.org/)
   - The Engine Room:[Organisational Security](https://orgsec.community/display/OS/Organisational+Security)
   - InterNews: [SAFETAG](https://safetag.org):The Security Auditing Framework and Evaluation Template for Advocacy Groups ([中文簡介](http://to.twngo.xyz/2q4J0i5))
+
 - 資安戰法應用：各式安全強化工具
-　- Tactical Technology Collective: [Security in a box　簡中版](https://securityinabox.org/zh/)
-　- Eletronic Frontier Foundation:[Surveillance Self-Defense](https://ssd.eff.org/en)
-　- Security First: [Umbrella App](https://secfirst.org/) 中文化已完成98%,請一起協助讓中文版早日進入google play 市集　
+  - Tactical Technology Collective: [Security in a box　簡中版](https://securityinabox.org/zh/)
+  - Eletronic Frontier Foundation:[Surveillance Self-Defense](https://ssd.eff.org/en)
+  - Security First: [Umbrella App](https://secfirst.org/) 中文化已完成98%,請一起協助讓中文版早日進入google play 市集　
 
 3. 原則三：盡責的資料使用政策
 
