@@ -1,5 +1,4 @@
-# digital-strategy
-guideline for developing digital strategy for NGOs
+# digital-strategy　for NGOs
 
 [動機說明](https://goo.gl/6WQiml) 
 
@@ -7,7 +6,7 @@ guideline for developing digital strategy for NGOs
 
 目前初稿已寫成，定為[NGO數位策略v.1](https://github.com/twngo/digital-strategy/blob/master/dsfor_v1.md)
 
-[網頁版](https://twngo.xyz/card.html)
+### [網頁版](https://twngo.xyz/card.html)
 
 [原作者初版說明]（https://medium.twngo.xyz）
 
